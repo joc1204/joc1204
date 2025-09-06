@@ -25,6 +25,8 @@
 - Automatización de procesos con n8n
 - Innovación y desarrollo de proyectos blockchain
 
+## 🏆 Mi meta en Web3 es comprender el ecosistema y adquirir los conocimientos tècnicos necesarios para desarrollar mis primeras aplicaciones
+
 ## 💬 Hablemos
 
 ¡Siempre abierto a compartir ideas, colaborar o aprender juntos!  
