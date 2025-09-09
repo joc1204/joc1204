@@ -7,7 +7,7 @@
 
 - 💡 **Emprendedor** apasionado por la tecnología y la innovación.
 - 👨‍💻 Actualmente estudiando **programación en Solidity** orientada al desarrollo blockchain.
-- 💻 Amante de **JavaScript** y explorador de nuevas tecnologías.
+- 💻 Estudiante de **JavaScript** y explorador de nuevas tecnologías.
 - 🤖 Entusiasta de **Arduino** y proyectos de electrónica.
 - 🔗 Interesado en **n8n** y la automatización de procesos.
 - 📚 Comprometido con la **superación personal** y el aprendizaje constante, siempre en búsqueda de mejorar cada día.
